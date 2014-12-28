@@ -1,0 +1,28 @@
+fluxbox-themes-antix (0.1.4) unstable; urgency=low 
+ 
+  * Packaged using dpkg-buildpackage.
+  * xz compressed deb.
+
+ -- anticapitalista <antiX@operamail.com>  Thu, 24 Oct 2013 19:40:00 +0200
+
+
+fluxbox-themes-antix (0.1.3) unstable; urgency=low 
+ 
+  * Fixed ownership bug.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 26 August 2012 15:40:00 +0200
+
+
+fluxbox-themes-antix (0.1.2) unstable; urgency=low 
+ 
+  * Added copyright notice.
+
+ -- anticapitalista <antiX@operamail.com> Mon, 16 July 2012 15:30:00 +0200
+
+
+fluxbox-themes-antix (0.1.1) unstable; urgency=low 
+ 
+  * Initial Release.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 29 January 2012 15:30:00 +0200
+
