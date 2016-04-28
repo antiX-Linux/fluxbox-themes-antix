@@ -1,3 +1,23 @@
+fluxbox-themes-antix (0.1.7) unstable; urgency=medium
+
+  * made antiX-Medium theme 
+
+ -- anticapitalista <antix@operamail.com>  Mon, 18 Apr 2016 12:18:32 +0300
+
+fluxbox-themes-antix (0.1.6) unstable; urgency=low 
+ 
+  * Medium and Large versions of selected themes - set larger ison size.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 20 Mar 2016 19:47:00 +0200
+
+
+fluxbox-themes-antix (0.1.5) unstable; urgency=low 
+ 
+  * Medium and Large versions of selected themes.
+
+ -- anticapitalista <antiX@operamail.com>  Thu, 10 Mar 2016 17:03:00 +0200
+
+
 fluxbox-themes-antix (0.1.4) unstable; urgency=low 
  
   * Packaged using dpkg-buildpackage.
